@@ -1004,4 +1004,9 @@ a:focus {
 .footer_section .footer-info p a {
   color: inherit;
 }
+/* maps */
+.iframe{
+  filter: invert(100%);
+
+}
 /*# sourceMappingURL=style.css.map */
